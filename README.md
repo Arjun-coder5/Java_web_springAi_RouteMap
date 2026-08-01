@@ -66,4 +66,9 @@
 - 1. [AI Powered Fitness Application](https://youtu.be/_FdKTSFnWeg?si=qcMbgbTh4GduYPov)
 - 2. [AI Powered Job Application](https://www.youtube.com/watch?v=3jxt9Ekta-w)
 ---
+## Tools & AI Assistance :
+- **[Claude for Spring Boot Developer](https://youtu.be/j9OYHB9hRFU?si=lU2ozYYC6XMofLZe)**
+# My Own Project : 
+- Ai Career PathFinder SAAS App .
+
 Make Good PortFolio and Do Opensourse : 
