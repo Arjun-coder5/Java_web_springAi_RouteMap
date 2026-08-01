@@ -74,4 +74,3 @@
 ---
 #  Making A portfolio : 
 - 🚩 [Portfolio Website](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V&index=1)
-Make Good PortFolio and Do Opensourse : 
