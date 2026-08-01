@@ -68,6 +68,8 @@
 - **Project** :
 - 1. [AI Powered Fitness Application](https://youtu.be/_FdKTSFnWeg?si=qcMbgbTh4GduYPov)
 - 2. [AI Powered Job Application](https://www.youtube.com/watch?v=3jxt9Ekta-w)
+- 3. [AI Powered Resume Builder](https://youtu.be/62dbESNu58M?si=772OfCRtKgxFNlGs)
+- 4. [AI Smart Reaserch Assistent](https://youtu.be/IXn4OGaJfHA?si=Hs3upvXD9qUUUdxB)
 ---
 ## Tools & AI Assistance :
 - **[Claude for Spring Boot Developer](https://youtu.be/j9OYHB9hRFU?si=lU2ozYYC6XMofLZe)**
