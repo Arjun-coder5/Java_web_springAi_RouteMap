@@ -43,10 +43,6 @@
 - **1. [Email Sender](https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku&si=GyMNALPT-1WxygKz)**
 - **2.[ AI Expense Tracker](https://youtu.be/PXnA665SKIY?si=OpcOh8ORxtPV2Wfa)**
 - **3.[Bitly Clone](https://youtu.be/icm4JQdi9NU?si=4DHIsajT_BnmpPKl)**
-
----
-#  Making A portfolio : 
-- 🚩 [Portfolio Website](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V&index=1)
 ---
 # Linux & Open Source : 
 - 🚩 [Linux](https://www.youtube.com/watch?v=sWbUDq4S6Y8&list=PL-OX3itZgXCLXSmue3C6qVIgz6tBAmVfz&index=2)
@@ -75,5 +71,7 @@
 - **[Claude for Spring Boot Developer](https://youtu.be/j9OYHB9hRFU?si=lU2ozYYC6XMofLZe)**
 # My Own Project : 
 - Ai Career PathFinder SAAS App .
-
+---
+#  Making A portfolio : 
+- 🚩 [Portfolio Website](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V&index=1)
 Make Good PortFolio and Do Opensourse : 
