@@ -24,7 +24,10 @@
 -       Hibernate is an ORM framework that lets you interact with databases using Java objects instead of writing SQL for every operation.
 🚩 **[Hibernet](https://youtube.com/playlist?list=PLq0IPBF63Mw3JIhXePVPmj54Ok2wvRxrl&si=ii6VRl7SuQ2vlKGw)**
 - **Project** : [NotesTaking APP]([https://youtu.be/0nuGm8HBjWk?si=PwJHkP3R_JRXe61V](https://youtu.be/0nuGm8HBjWk?si=vBFc9JRnd6JlWLZA))
----  
+---
+# Frontend : 
+- **[Learn Here](https://youtube.com/playlist?list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn&si=B0jWoDKkDvtq6kMp)**
+---
 # Complete Spring 
 🚩 [Spring frame & Spring Boot](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/51486789/?start=0&udfrontends=true)
 -     Cover Ecommerce Project
