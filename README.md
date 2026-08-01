@@ -32,7 +32,7 @@
 
 - 🚩 **[Spring Security Part - 1](https://youtu.be/Uc2LZFVxHoM?si=1s04jh2IrFFPRY1E)**
 - 🚩 **[Spring Security Part - 2](https://www.youtube.com/watch?v=Kzx8MKA7Q0Y)**
-- **Project Implement** - **Secure Notes Application**
+- **Project: [Authentication System](https://youtube.com/playlist?list=PL0zysOflRCem2SLBwhDMok05hwLtRTRDr&si=WHT3NgL9lWb_Ay6X)**
 - 🚩 **[Redis](https://www.youtube.com/watch?v=Pvc3DIr3Q1g)**
 
 - **Spring Boot Project**
