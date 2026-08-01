@@ -29,6 +29,7 @@
 🚩 [Spring frame & Spring Boot](https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/learn/lecture/51486789/?start=0&udfrontends=true)
 -     Cover Ecommerce Project
 - **Project** : [Blog Application](https://www.youtube.com/watch?v=tGb1dNMa5c8&list=PL6Rs84MkNq7kv3auhwU6gOVDvJ1eH_Wax&index=2)
+- 🚩 [Unit Testing](https://youtu.be/sq_pYMepfP0?si=h5HT1oWt6wI0rJmI)
 
 - 🚩 **[Spring Security Part - 1](https://youtu.be/Uc2LZFVxHoM?si=1s04jh2IrFFPRY1E)**
 - 🚩 **[Spring Security Part - 2](https://www.youtube.com/watch?v=Kzx8MKA7Q0Y)**
@@ -41,8 +42,7 @@
 - **3.[Bitly Clone](https://youtu.be/icm4JQdi9NU?si=4DHIsajT_BnmpPKl)**
 
 ---
-# Testing Website and Making A portfolio : 
-- 🚩 [Unit Testing](https://youtu.be/sq_pYMepfP0?si=h5HT1oWt6wI0rJmI)
+#  Making A portfolio : 
 - 🚩 [Portfolio Website](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V&index=1)
 ---
 # Linux & Open Source : 
