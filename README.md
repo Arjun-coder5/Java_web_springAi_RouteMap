@@ -6,7 +6,8 @@
 -         JSP: Used to create dynamic HTML pages in legacy Java web applications. Learn only the basics, since modern applications use React/Angular + Spring Boot REST APIs instead of JSP.
 🚩  **01  . Jsp Servlet**
 
-📍  **Go Here** :  [Click](https://youtube.com/playlist?list=PLq0IPBF63Mw0JzlPcXKF2XAnBaDNmkROZ&si=UUZ92xu7tDX9zOKE)
+📍  **Go Here** :  **Videos** [Click](https://youtube.com/playlist?list=PLq0IPBF63Mw0JzlPcXKF2XAnBaDNmkROZ&si=UUZ92xu7tDX9zOKE)
+                     **Document** - file:///C:/Users/Arjun/OneDrive/Desktop/Learn/Subject-Notes/Jsp%20Servlets%20and%20JDBC%20Notes.pdf
 
 📍  **Project** :  **🛠️ Tech Stack:** Java | JSP | Servlet | JDBC | MySQL | Tomcat
 -  1. **Library Management System** : [Go](https://youtube.com/playlist?list=PLSIuN2hFKqGI0DQN7ZwKJfODiuj0SXuaS&si=Uy4TpU6s3Jn3QPMv)
