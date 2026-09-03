@@ -1,8 +1,3 @@
-- **Why Hibernet** :
--       Hibernate is an ORM framework that lets you interact with databases using Java objects instead of writing SQL for every operation.
-🚩 **[Hibernet](https://youtube.com/playlist?list=PLq0IPBF63Mw3JIhXePVPmj54Ok2wvRxrl&si=ii6VRl7SuQ2vlKGw)**
-- **Project** : [NotesTaking APP]([https://youtu.be/0nuGm8HBjWk?si=PwJHkP3R_JRXe61V](https://youtu.be/0nuGm8HBjWk?si=vBFc9JRnd6JlWLZA))
----
 # Frontend : 
 - **[Learn Here](https://youtube.com/playlist?list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn&si=B0jWoDKkDvtq6kMp)**
 ---
@@ -58,3 +53,94 @@
 ---
 #  Making A portfolio : 
 - 🚩 [Portfolio Website](https://www.youtube.com/watch?v=JSFIGIA9Zrk&list=PL07efmqYWHZ_rVeQ1ws0ER9eL6cxo-d5V&index=1)
+
+
+
+
+
+# 🚀 Full-Stack Java + AI Roadmap
+
+```mermaid
+flowchart TD
+
+    A[🎯 FULL-STACK JAVA + AI]
+
+    A --> B[🌐 FRONTEND]
+    A --> C[🛠️ TOOLS]
+    A --> D[☕ SPRING]
+    A --> E[🐧 LINUX & OPEN SOURCE]
+    A --> F[⚙️ MICROSERVICES]
+    A --> G[☁️ AWS & CI/CD]
+    A --> H[🤖 SPRING AI]
+    A --> I[🚀 OWN PROJECT]
+    A --> J[🌐 PORTFOLIO]
+
+    B --> B1[HTML • CSS • JavaScript • React]
+
+    C --> C1[Maven]
+    C --> C2[Git & GitHub]
+
+    D --> D1[Spring & Spring Boot]
+    D --> D2[Blog Application]
+    D --> D3[Unit Testing]
+    D --> D4[Spring Security]
+    D --> D5[Authentication System]
+    D --> D6[Redis]
+    D --> D7[Email Sender]
+    D --> D8[AI Expense Tracker]
+    D --> D9[Bitly Clone]
+
+    E --> E1[Linux]
+    E --> E2[Open Source]
+
+    F --> F1[Microservices]
+    F --> F2[Job Application]
+    F --> F3[Kafka]
+
+    G --> G1[AWS]
+    G --> G2[CI/CD]
+    G --> G3[Airline System]
+
+    H --> H1[Spring AI]
+    H --> H2[AI Fitness Application]
+    H --> H3[AI Job Application]
+    H --> H4[AI Resume Builder]
+    H --> H5[AI Smart Research Assistant]
+
+    I --> I1[AI Career PathFinder SaaS]
+
+    J --> J1[Portfolio Website]
+
+    click B "https://youtube.com/playlist?list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn"
+    click C1 "https://www.youtube.com/watch?v=ybQAmFsVQqA"
+    click C2 "https://www.youtube.com/watch?v=MuZySo5lF8E"
+
+    click D1 "https://www.udemy.com/course/spring-boot-using-intellij-build-a-real-world-project/"
+    click D2 "https://www.youtube.com/watch?v=tGb1dNMa5c8"
+    click D3 "https://youtu.be/sq_pYMepfP0"
+    click D4 "https://youtu.be/Uc2LZFVxHoM"
+    click D5 "https://youtube.com/playlist?list=PL0zysOflRCem2SLBwhDMok05hwLtRTRDr"
+    click D6 "https://www.youtube.com/watch?v=Pvc3DIr3Q1g"
+    click D7 "https://youtube.com/playlist?list=PL0zysOflRCenujRE0Nfdqo3W6dJgiPlku"
+    click D8 "https://youtu.be/PXnA665SKiY"
+    click D9 "https://youtu.be/icm4JQdi9NU"
+
+    click E1 "https://www.youtube.com/watch?v=sWbUDq4S6Y8"
+    click E2 "https://www.youtube.com/playlist?list=PLinedj3B30sBsmRRL8XyTGadjRGkzRPb7"
+
+    click F1 "https://www.youtube.com/watch?v=BLlEgtp2_i8"
+    click F2 "https://www.youtube.com/watch?v=EeQRAxXWDF4"
+    click F3 "https://youtu.be/NWLwGtkBrkQ"
+
+    click G1 "https://www.youtube.com/watch?v=2OHr0QnEkg4"
+    click G2 "https://www.youtube.com/watch?v=Hi6MGNhImFc"
+    click G3 "https://www.youtube.com/watch?v=yFoI4a3HbO0"
+
+    click H1 "https://www.youtube.com/playlist?list=PL0zysOflRCen1TeDUm-ebl9T-WbJygCGE"
+    click H2 "https://youtu.be/_FdKTSFnWeg"
+    click H3 "https://www.youtube.com/watch?v=3jxt9Ekta-w"
+    click H4 "https://youtu.be/62dbESNu58M"
+    click H5 "https://youtu.be/IXn4OGaJfHA"
+
+    click J1 "https://www.youtube.com/watch?v=JSFIGIA9Zrk"
+```
