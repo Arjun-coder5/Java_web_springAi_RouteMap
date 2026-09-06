@@ -1,5 +1,5 @@
 # Frontend : 
-- **[Learn Here](https://youtube.com/playlist?list=PLbtI3_MArDOk_A-GnYHPOiHSxlK2Vd3Zn&si=B0jWoDKkDvtq6kMp](https://youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&si=N9-rgXB6KvuUFoW7))**
+- **[Learn](https://youtube.com/playlist?list=PLEPye7A7EcQZrT3VSBb7jtxnxIfY3yyG6&si=XjJ43WfC2drboFcO)**
 ---
 # Tools : 
 🚩 Tool : 1.[Maven](https://www.youtube.com/watch?v=ybQAmFsVQqA)
